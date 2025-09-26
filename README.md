@@ -1,14 +1,14 @@
-Website Proposal 2 – Bean & Bloom Café (Small Business)
+Website Proposal 2 – BLOOM & BEAN Café (Small Business)
 
-1. Organisation Overview
+1. ORGANISATION OVERVIEW
 
-Name: Bean & Bloom Café
+Name: BLOOM & BEAN CAFE
 
 Brief History:
 Established in 2021 in Cape Town, Bean & Bloom is a cosy café that blends artisanal coffee with a warm, plant-filled atmosphere (Admin and Admin, 2024). The café has quickly become a favourite for students, remote workers, and coffee lovers.
 
 
-2. Mission and Vision Statements
+2. MISSIONS and VISION STATEMENTS
 
 Mission:
 
@@ -26,7 +26,8 @@ Target Audience:
 
 • Tourists exploring Cape Town
 
-3. Website Goals and Objectives
+
+3. WEBSITE GOALS and OBJECTIVES
 
 • Showcase café menu and ambience online
 
@@ -37,7 +38,7 @@ Target Audience:
 • Share coffee recipes and brewing tips
 
 
-Key Performance Indicators (KPI’s):
+4. KEY PERFORMENCE INDICATORS (KPI’s):
 
 • Increase online orders by 25% within six months
 
@@ -45,11 +46,13 @@ Key Performance Indicators (KPI’s):
 
 • Maintain bounce rate below 40%
 
-4. Current Website Analysis
+
+5. CURRENT WEBSITE ANALYSIS
 
 Currently, Bean & Bloom only has an Instagram profile with limited menu visibility and no online ordering (Harris, 2023).
 
-5. Proposed Website Features and Functionality
+
+6. PROPOSED WEBSITE FEATURES and FUNCTIONALITY
 
 • Homepage with high-quality images of coffee and café interiors
 
@@ -62,7 +65,7 @@ Currently, Bean & Bloom only has an Instagram profile with limited menu visibili
 • Event calendar for live music and workshops
 
 
-6. Design and User Experience
+7. DESIGN and USER EXPERIENCE
 
 • Colour Scheme:
  Earthy tones (beige, brown, forest green)
@@ -81,7 +84,7 @@ Easy navigation, optimised mobile ordering, and quick access to the menu
 
 
 
-7. Technical Requirements
+8. TECHNICAL REQUIREMENTS
 
 • Domain: beanandbloom.co.za
 
@@ -90,7 +93,7 @@ Easy navigation, optimised mobile ordering, and quick access to the menu
 • SSL security: Secure Sockets Layer
 
 
-8. Timeline and Milestones
+9. TIMELINE and MILESTONE
 
 • Week 1: Wireframing & Branding Setup
 
@@ -101,7 +104,7 @@ Easy navigation, optimised mobile ordering, and quick access to the menu
 • Week 5: Testing & Launch
 
 
-9. Budget
+10. BUDGET
 
 • Development: R15,000
 
@@ -109,8 +112,10 @@ Easy navigation, optimised mobile ordering, and quick access to the menu
 
 • Maintenance: R800 per month
 
+11. CHANGE LOG
 
-10. References
+
+12. REFERENCE
 
 • South African Coffee Trends 2025 Report (Chesney, 2025)
 
