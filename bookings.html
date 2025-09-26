@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bean And Bloom Cafe | Reservations</title>
+    <link rel="stylesheet" href="css-assets/script.css">
+</head>
+<!--The Body section carries all the information that will be diplayed on the website screen-->
+<body>
+
+    <header>
+        <img src="_images/cafelogo.jpg.jpg" alt="Bean & Bloom Cafe Logo" height="200px" width="200px">
+        <h1>Bean & Bloom Cafe Reservations</h1>
+
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html"> Home</a></li>
+
+            <li><a href="products.html"> Menu</a></li>
+
+            <li><a href="bookings.html"> Make Reservations</a></li>
+
+            <li><a href="about.html"> About Us</a></li>
+
+            <li><a href="contacts.html"> Contact Us</a></li>
+        </ul>
+    </nav>
+    <h3>Book Your Table At Bean & Bloom Cafe. Fill in The Details Below And we'll Confirm Your Reservations.</h3>
+
+    <!--This is a form that the suer will hve to fill in-->
+    <form action="#" method="post">
+
+        <label for="name">Full Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="email">Email Address:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="phone">Phone Number:</label><br>
+        <input type="tel" id="phone" name="phone" required><br><br>
+    
+        <label for="date">Reservation:</label><br>
+        <input type="date" id="date" name="date" required><br><br>
+    
+        <label for="time">Reservation Time:</label><br>
+        <input type="time" id="time" name="time" required><br><br>
+    
+        <label for="guests">Number of Guests:</label><br>
+        <input type="number" id="guests" name="guests" min="1" max="20" required><br><br>
+    
+        <label for="requests">Special Requests (Optional):</label><br>
+        <texterea id="text" name="requests" row="4"></texterea><br><br>
+        
+        <button type="submit">Submit Reservation</button>
+    </form>
+    <footer>
+        <p>&copy; 2025 Bean & Bloom Cafe. All right reserved.</p>
+        <p>Email: <a href="mailto:beanbloom06cafe@gmail.com"> beanbloom06cafe@gmail.com</a> | Phone: +27-564-8799</p>
+        <p>"Coffee, Cakes & Comfort In Every Cup"</p>
+    </footer>
+</body>
+
+</html>
