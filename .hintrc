@@ -44,6 +44,7 @@
           "backdrop-filter"
         ]
       }
-    ]
+    ],
+    "button-type": "off"
   }
 }

@@ -11,13 +11,8 @@
 <!--The Body section carries all the information that will be diplayed on the website screen-->
 <body>
 
-    <header>
-        <img src="_images/cafelogo.jpg.jpg" alt="Bean & Bloom Cafe Logo" height="200px" width="200px">
-        <h1>Bean & Bloom Cafe Reservations</h1>
-
-    </header>
-
-    <nav>
+        <!--Navigation is going to help the user moe from one web screen to another-->
+     <nav>
         <ul>
             <li><a href="index.html"> Home</a></li>
 
@@ -30,6 +25,13 @@
             <li><a href="contacts.html"> Contact Us</a></li>
         </ul>
     </nav>
+
+    <header>
+        <img src="_images/cafelogo.jpg.jpg" alt="Bean & Bloom Cafe Logo" height="200px" width="200px">
+        <h1>Bean & Bloom Cafe Reservations</h1>
+
+    </header>
+
 
     <h3>Book Your Table At Bean & Bloom Cafe. Fill in The Details Below And we'll Confirm Your Reservations.</h3>
 
@@ -55,7 +57,7 @@
         <input type="number" id="guests" name="guests" min="1" max="20" required><br><br>
     
         <label for="requests">Special Requests (Optional):</label><br>
-        <texterea id="text" name="requests" row="4"></texterea><br><br>
+        <input type="text" name="requests" row="4"><br><br>
         
         <button type="submit">Submit Reservation</button>
     </form>
