@@ -1,6 +1,10 @@
-**Website Proposal 2 – BLOOM & BEAN Café (Small Business)**
+# **Website Proposal 2 – BLOOM & BEAN Café (Small Business)**
 
-1. # *ORGANISATION OVERVIEW*
+
+
+# **1. ORGANISATION OVERVIEW**
+
+
 
 # **Name: BLOOM & BEAN CAFE**
 
@@ -8,13 +12,15 @@ Brief History:
 Established in 2021 in Cape Town, Bean & Bloom is a cosy café that blends artisanal coffee with a warm, plant-filled atmosphere (Admin and Admin, 2024). The café has quickly become a favourite for students, remote workers, and coffee lovers.
 
 
-2. # **MISSIONS and VISION STATEMENTS**
 
-# *Mission:*
+
+# **2. MISSIONS and VISION STATEMENTS**
+
+ *Mission:*
 
 To serve exceptional coffee and pastries while creating a community space for creativity and connection.
 
-# *Vision:*
+ *Vision:*
 
 To be the go-to coffee destination in Cape Town, expanding into an online marketplace for coffee beans and brewing accessories.
 
@@ -27,7 +33,9 @@ Target Audience:
 • Tourists exploring Cape Town
 
 
-3. # *WEBSITE GOALS and OBJECTIVES:*
+
+
+# **3.  WEBSITE GOALS and OBJECTIVES:**
 
 • Showcase café menu and ambience online
 
@@ -38,7 +46,9 @@ Target Audience:
 • Share coffee recipes and brewing tips
 
 
-4. # *KEY PERFORMENCE INDICATORS (KPI’s):*
+
+
+# **4.  KEY PERFORMENCE INDICATORS (KPI’s):**
 
 • Increase online orders by 25% within six months
 
@@ -47,12 +57,16 @@ Target Audience:
 • Maintain bounce rate below 40%
 
 
-5. # *CURRENT WEBSITE ANALYSIS*
+
+
+# **5.  CURRENT WEBSITE ANALYSIS**
 
 Currently, Bean & Bloom only has an Instagram profile with limited menu visibility and no online ordering (Harris, 2023).
 
 
-6. # *PROPOSED WEBSITE FEATURES and FUNCTIONALITY*
+
+
+# **6.  PROPOSED WEBSITE FEATURES and FUNCTIONALITY**
 
 • Homepage with high-quality images of coffee and café interiors
 
@@ -65,7 +79,9 @@ Currently, Bean & Bloom only has an Instagram profile with limited menu visibili
 • Event calendar for live music and workshops
 
 
-7. # *DESIGN and USER EXPERIENCE*
+
+
+# **7. DESIGN and USER EXPERIENCE**
 
 • Colour Scheme:
  Earthy tones (beige, brown, forest green)
@@ -84,7 +100,8 @@ Easy navigation, optimised mobile ordering, and quick access to the menu
 
 
 
-8. # *TECHNICAL REQUIREMENTS*
+
+# **8.  TECHNICAL REQUIREMENTS**
 
 • Domain: beanandbloom.co.za
 
@@ -93,7 +110,9 @@ Easy navigation, optimised mobile ordering, and quick access to the menu
 • SSL security: Secure Sockets Layer
 
 
-9. # *TIMELINE and MILESTONE*
+
+
+# **9. TIMELINE and MILESTONE**
 
 • Week 1: Wireframing & Branding Setup
 
@@ -104,7 +123,9 @@ Easy navigation, optimised mobile ordering, and quick access to the menu
 • Week 5: Testing & Launch
 
 
-10. # *BUDGET*
+
+
+# **10. BUDGET**
 
 • Development: R15,000
 
@@ -113,9 +134,11 @@ Easy navigation, optimised mobile ordering, and quick access to the menu
 • Maintenance: R800 per month
 
 
-11. # *CHANGE LOG*
 
-# PART ONE – INITIAL SUBMISSION
+
+# **11. CHANGE LOG**
+
+**PART ONE – INITIAL SUBMISSION**
 
 • Submitted: 27 AUGUST 2025 
 
@@ -132,7 +155,8 @@ According to the feedback received from my lecturer. I was told to Add a Change 
 • Add more detailed product descriptions in the shop section.
 
 
-# PART TWO – REVISION AND UPDATES
+
+ **PART TWO – REVISION AND UPDATES**
 
 • Date: 27 - 28 September 2025
 
@@ -155,7 +179,8 @@ Additional Improvements: Beyond Feedback
 • Improved mobile responsiveness so that the website can be tested on iPhone and Android and Tablets
 
 
-# NEXT PLANNED UPDATES
+
+ **NEXT PLANNED UPDATES**
 
 • Add blog section with first 2 posts.
 
@@ -168,16 +193,22 @@ Additional Improvements: Beyond Feedback
 • Connect Instagram/Social media platforms feed to homepage.
 
 
-12. # SCREENSHOTS OF THE WEBSITE ON DIFFERENT DEVICES
-
-    ![desktopview](images/desktopview.png)
-    ![tabletview](images/tabletview.png)
-    ![mobileview](images/mobileview.png)
 
 
+# **12.  SCREENSHOTS OF THE WEBSITE ON DIFFERENT DEVICES**
+
+**DESKTOP VIEW**
+<img width="1920" height="920" alt="desktopview" src="https://github.com/user-attachments/assets/e0e0c707-a42c-4b39-a887-9549b887da61" />
+
+**TABLET VIEW**
+<img width="1218" height="909" alt="tabletview" src="https://github.com/user-attachments/assets/15b78aa8-be0a-47dd-b2e7-d7abe75ab79e" />
+
+**MOBILE VIEW**
+<img width="650" height="900" alt="mobileview" src="https://github.com/user-attachments/assets/6b39e0f8-c690-4f6b-9046-6375887d6f51" />
 
 
-13. # REFERENCE
+
+# **13.  REFERENCE**
 
 • South African Coffee Trends 2025 Report (Chesney, 2025)
 
