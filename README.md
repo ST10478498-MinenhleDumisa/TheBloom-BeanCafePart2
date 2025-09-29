@@ -170,9 +170,9 @@ Additional Improvements: Beyond Feedback
 
 12. # SCREENSHOTS OF THE WEBSITE ON DIFFERENT DEVICES
 
-    ![Alt text](images/desktopview.png)
-    ![Alt text](images/tabletview.png)
-    ![Alt text](images/mobileview.png)
+    ![desktopview](images/desktopview.png)
+    ![tabletview](images/tabletview.png)
+    ![mobileview](images/mobileview.png)
 
 
 
