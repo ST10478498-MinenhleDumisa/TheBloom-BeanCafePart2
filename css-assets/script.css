@@ -5,6 +5,7 @@
    =========================== */
 
 /* Global styles */
+/* Reset some default browser styles */
 * {
   margin: 0;
   padding: 0;
@@ -33,8 +34,8 @@ nav {
   text-align: center;          /* center the navigation menu */
   box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* subtle shadow */
   margin-bottom: 20px;         /* space below the nav bar */
-background: linear-gradient(90deg, #f99aa8, #f99bb9); /* Soft horizontal gradient for nav background */
-    overflow: hidden;                     /* Prevent floating issues */
+  background: linear-gradient(90deg, #f99aa8, #f99bb9); /* Soft horizontal gradient for nav background */
+  overflow: hidden;                     /* Prevent floating issues */
 
 }
 
@@ -45,7 +46,9 @@ nav ul {
   padding: 0;
   display: flex;               /* arrange items in a row */
   justify-content: center;     /* center the items */
-  gap: 30px;                   /* space between links */
+  align-items: center;         /* vertically center items */
+
+
 
 
 }
@@ -53,6 +56,9 @@ nav ul {
 nav ul li {
 
   display: inline-block;             /* keep items in one line */
+  margin: 0 15px;                   /* space around each link */
+  position: relative;                /* for dropdown positioning if needed */
+
   
   
 
@@ -211,11 +217,9 @@ tr:hover {
 
 
 }
-
-
-
-
-
+tr:nth-child(even) {
+    background-color: rgba(217, 193, 178, 0.403);
+}
 
 /* Images - responsive */
 img {
@@ -342,20 +346,32 @@ a:hover {
 @media (max-width: 37.5em) { /* 600px */
     body {
         background-color: rgb(255, 173, 186);
+        font-size: 0.875rem; /* Slightly smaller text on mobile */
     }
 
     .nav {
         flex-direction: column;
         align-items: stretch;
+        
+
     }
 
     .nav li a {
         text-align: center;
-        border-bottom: 0.0625rem solid #e0cfc1;
+        border-bottom: 0.0625rem solid #f5e4d5;
+        padding: 0.625rem 0;
+        display: block;
+        border-radius: 0; /* Remove rounded corners for mobile */
+        width: 100%;
+        box-sizing: border-box; /* Ensure padding doesn't affect width */
+        background-color: #c85454; /* Darker background for mobile nav */
+
     }
 
     .container {
         width: 95%; /* Looser spacing on mobile */
+        
+
     }
 }
 
